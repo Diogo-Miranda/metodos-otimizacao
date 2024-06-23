@@ -1,3 +1,7 @@
+# Particle Swarm Optimization
+
+References: [PSO (Particle Swarm Optimization)](https://en.wikipedia.org/wiki/Particle_swarm_optimization)
+
 # How to run
 
 ## Requisitos
